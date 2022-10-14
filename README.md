@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+### Main reason to come here is a small but interesting history:
 
+I started coding when I came to 1st year in college. 
 <!--
 **Souvik-0612/Souvik-0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
