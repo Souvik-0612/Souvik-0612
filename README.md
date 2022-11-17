@@ -10,7 +10,7 @@ Below some problem I tried.
   <img src="https://profile-counter.glitch.me/Souvik-0612/count.svg" />
 </p>
 
-# Help:
+# Help
 
 There is a good amount bugs and some kind of low efficiency in my programs. I am not a programmer as I have mentioned. 
 My urge is that please fix the bugs and report me so that I can learn something new.
